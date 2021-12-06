@@ -6,7 +6,7 @@ const posts = [ {
     fundo:{primeiroPerfil:'respondeai', qtdCurtidas:'101.523'}
   },
   { 
-    user: 'barked', 
+    perfil: 'barked', 
     conteudo:'dog',
     fundo:{primeiroPerfil:'adorable_animals', qtdCurtidas:'99.159'}}
 ]

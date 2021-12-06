@@ -1,3 +1,4 @@
+
 export default function Sidebar(){
     const sugestoes =[
         {perfil:'bad.vibes.memes'},

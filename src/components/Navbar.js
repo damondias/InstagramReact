@@ -1,5 +1,6 @@
 import IonIcons from "./IonIcons";
 
+
 export default function Navbar(){
     return (
     <div class="navbar">
